@@ -1,7 +1,7 @@
 <!-- GitHub Profile README.md -->
 
 <div align="center">
-  <h1>Hi, I'm Alshatha 👨‍💻</h1>
+  <h1>Hi, I'm Alshatha👩‍💻</h1>
   <h3>Cybersecurity Student | Trainee @ Rihal | Future Threat Hunter</h3>
 </div>
 
