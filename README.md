@@ -52,7 +52,7 @@ Kali Linux, Wireshark, Nmap, Nikto, Metasploit
 
 <p align="center">
   <a href="www.linkedin.com/in/alsha-tha-salim-al-rawahi"><img src="https://img.shields.io/badge/LinkedIn-Alshatha-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
-  <a href="alshatha490@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-informational?style=for-the-badge&logo=gmail" alt="Email"></a>
+  <a href="mailto:alshatha490@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-informational?style=for-the-badge&logo=gmail" alt="Email"></a>
 </p>
 
 
