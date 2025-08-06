@@ -23,7 +23,7 @@
 
 ####  Programming
 ```python
-Python, Java, Php Bash
+Python, Java, Php 
 ```
 
 ####  Cybersecurity
