@@ -5,10 +5,10 @@
   <h3>Cybersecurity Student | Trainee @ Rihal | Future Threat Hunter</h3>
 </div>
 
-
-> 🛡️ *"With threats increasing, I want to be part of the solution."*
-> 
->    Always learning. Always building. Always defending.
+<div align="center">
+  "With threats increasing, I want to be part of the solution."<br>
+    Always learning. Always building. Always defending.
+</div>
 
 
 ###  About Me
@@ -59,5 +59,5 @@ Kali Linux, Wireshark, Nmap, Nikto, Metasploit
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github.com/Alshatha" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Alshatha&show_icons=true&theme=radical" />
 </div>
